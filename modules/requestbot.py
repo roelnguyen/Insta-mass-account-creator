@@ -1,5 +1,4 @@
 import requests
-from config import Config
 from generateaccountinformation import genName, username, genEmail
 import json
 import re
